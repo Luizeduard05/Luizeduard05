@@ -19,7 +19,7 @@
 ## 🛠️ Ferramentas e Tecnologias
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,mysql,postgres,mongodb,git,github,nodejs,react,angular,bootstrap,spring" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,mysql,postgres,mongodb,git,github,nodejs,react,ts,angular,bootstrap,spring" />
 </p>
 
 ## 📫 Contato
