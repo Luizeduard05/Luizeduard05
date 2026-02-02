@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Luiz Eduardo</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+  💻 Dev Mobile Jr | 🌍 Apaixonado por Tecnologia
 </p><br>
 
 <div align="center">
